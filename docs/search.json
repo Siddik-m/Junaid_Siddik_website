@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "Posts.html",
+    "href": "Posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Assignments 1\n\n\nGECON 7201 Assignment-1\n\n\n\n\n\nOct 8, 2026\n\n\nMD JUNAID SIDDIK\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Junaid_Siddik_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "MD JUNAID SIDDIK\n** Master of Arts in Applied Economics**\nThe University of Winnipeg, Manitoba, Canada\n## Academic Credentials\n\nMaster of Social Science (MSS) in Economics - (2021-2022)\n\nShahjalal University of Science and Technology, Bangladesh.\n\nBachelor of Social Science (BSS) in Economics - (2018-2021)\nShahjalal University of Science and Technology, Bangladesh.\nAbout Me\nI am a graduate student in Applied Economics at the university of Winnipeg. I have completed my undergraduate and master’s degree in Economics at Shahjalal University of Science and Technology in Bangladesh. My academic interests include Macroeconomics, Applied Econometrics, Macroeconomic policy. I am particularly interest in using theory and econometric methods to analyze Macroeconomic issues and evaluate the effects of economic policies."
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Posts/Assignments-1/index.html",
+    "href": "Posts/Assignments-1/index.html",
+    "title": "Assignments 1",
+    "section": "",
+    "text": "This blog post provides access to my completed GECON 7201 Assignment 1.\nDownload my completed GECON 7201 Assignment 1 (PDF)"
   }
 ]

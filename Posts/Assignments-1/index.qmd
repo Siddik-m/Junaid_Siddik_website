@@ -1,0 +1,10 @@
+---
+title: "Assignments 1"
+description: "GECON 7201 Assignment-1"
+author: "MD JUNAID SIDDIK"
+date: "2026-10-08"
+---
+
+This blog post provides access to my completed GECON 7201 Assignment 1.
+
+[Download my completed GECON 7201 Assignment 1 (PDF)](GECON7201_Assignment_1.pdf)

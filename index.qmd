@@ -1,11 +1,23 @@
 ---
-title: "Junaid_Siddik_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# MD JUNAID SIDDIK
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+\*\* Master of Arts in Applied Economics\*\*
 
-```{r}
-1 + 1
-```
+The University of Winnipeg, Manitoba, Canada
+
+\## Academic Credentials
+
+-  **Master of Social Science (MSS) in Economics -** (2021-2022)
+
+  Shahjalal University of Science and Technology, Bangladesh.
+
+- **Bachelor of Social Science (BSS) in Economics - (2018-2021)**
+
+  Shahjalal University of Science and Technology, Bangladesh.
+
+  ## About Me
+
+  I am a graduate student in Applied Economics at the university of Winnipeg. I have completed my undergraduate and master's degree in Economics at Shahjalal University of Science and Technology in Bangladesh. My academic interests include Macroeconomics, Applied Econometrics, Macroeconomic policy. I am particularly interest in using theory and econometric methods to analyze Macroeconomic issues and evaluate the effects of economic policies.
