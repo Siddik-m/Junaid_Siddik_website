@@ -1,0 +1,12 @@
+---
+title: "Assignment 2"
+description: "GECON 7201 Assignment-2"
+author: "MD JUNAID SIDDIK"
+date: "2026-11-09"
+---
+
+This blog post provides access to my completed GECON 7201 Assignment 2.
+
+[Download my completed GECON 7201 Assignment 2 (PDF)](econ_7201_assignment_2_Md_Junaid_Siddik.pdf)
+
+[View the Quarto source file](econ_7201_assignment_2_Md_Junaid_Siddik.qmd)
